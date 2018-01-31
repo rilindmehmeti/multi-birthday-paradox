@@ -1,0 +1,7 @@
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\bin\Debug\MultipleBirthdayParadox.exe.config
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\bin\Debug\MultipleBirthdayParadox.exe
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\bin\Debug\MultipleBirthdayParadox.pdb
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\obj\Debug\MultipleBirthdayParadox.csproj.CoreCompileInputs.cache
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\obj\Debug\MultipleBirthdayParadox.exe
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\obj\Debug\MultipleBirthdayParadox.pdb
+C:\Users\rilind\source\repos\MultipleBirthdayParadox\MultipleBirthdayParadox\obj\Debug\MultipleBirthdayParadox.csprojResolveAssemblyReference.cache
